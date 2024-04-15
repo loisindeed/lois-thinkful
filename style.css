@@ -2,7 +2,12 @@
 @import url("https://fonts.googleapis.com/css2?family=Playfair+Display&family=Source+Sans+Pro:wght@400&display=swap");
 nav {
   text-align: center;
+  text-
 }
+nav a {
+  margin-right: 10px;
+}
+
 body {
   background-color: #eae2b7;
   color: #003049;
@@ -19,7 +24,7 @@ a:hover {
 h2 {
   text-align: center;
 }
-section#intro {
+#about p:first-of-type {
   text-align:center;}
 
 
